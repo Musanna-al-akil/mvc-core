@@ -1,5 +1,5 @@
 {
-    "name": "musanna/mvc-core",
+    "name": "musanna/mvc-framework-core",
     "autoload": {
         "psr-4": {
             "Musanna\\MvcCore\\": "."
